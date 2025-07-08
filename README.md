@@ -4,7 +4,9 @@ A lightweight Streamlit web app that classifies SMS messages as **Spam** or **No
 
 ---
 
-## 🚀 Demo
+## 🚀 Live Demo
+
+👉 [Try it out on Streamlit!](https://spamclassifier-nilaysingh.streamlit.app/) 👈
 
 **Try It Out**  
 Paste an SMS message like:
@@ -12,6 +14,7 @@ Paste an SMS message like:
 > "Congratulations! You’ve won ₹50,000. Click to claim your prize now."
 
 And get an instant prediction like: `🚨 Spam` or `✅ Not Spam`
+
 
 ---
 
