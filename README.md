@@ -101,3 +101,19 @@ Evaluated via 5-fold cross-validation on preprocessed SMS data.
 ---
 
 ## ✅ Future Improvements
+
+- Add support for email spam
+
+- Use BERT/transformers for better feature extraction
+
+- Build API endpoints for mobile integration
+
+- Improve dataset diversity with modern scam patterns
+
+## 🙌 Credits
+- Developed by [Nilay Singh](https://github.com/n1lays1ngh)
+
+- Trained using scikit-learn, hosted with Streamlit
+
+- Dataset from UCI Machine Learning Repository
+
